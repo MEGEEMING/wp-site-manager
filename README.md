@@ -1,6 +1,6 @@
 # WordPress Site Manager
 
-This project is a simple web application that allows you to easily create WordPress websites locally. It uses Docker to create and run each WordPress site in an seperate environment, providing a clean and efficient way to handle multiple projects.
+This project is a simple web application that allows you to easily create WordPress websites locally. It uses Docker to create and run each WordPress site in an seperate environment, providing a clean and efficient way to handle multiple wordpress sites.
 
 ## How It Works
 
